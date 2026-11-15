@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://l811hoe4d7k5"
-path="res://.godot/imported/738088__theo_lusvordes__drum-and-bass-amen-1 (compressed by happyscribe.com).wav-d0894e960cd1b60ac290e2edc54d7573.sample"
+path="res://.godot/imported/738088__theo_lusvordes__drum-and-bass-amen-1 (compressed by happyscribe.com).wav-d8f02dc1eac20db614b371253cda21ee.sample"
 
 [deps]
 
-source_file="res://audio/738088__theo_lusvordes__drum-and-bass-amen-1 (compressed by happyscribe.com).wav"
-dest_files=["res://.godot/imported/738088__theo_lusvordes__drum-and-bass-amen-1 (compressed by happyscribe.com).wav-d0894e960cd1b60ac290e2edc54d7573.sample"]
+source_file="res://audio/Musics_AudioAssets/738088__theo_lusvordes__drum-and-bass-amen-1 (compressed by happyscribe.com).wav"
+dest_files=["res://.godot/imported/738088__theo_lusvordes__drum-and-bass-amen-1 (compressed by happyscribe.com).wav-d8f02dc1eac20db614b371253cda21ee.sample"]
 
 [params]
 

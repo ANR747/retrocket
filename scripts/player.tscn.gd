@@ -14,6 +14,14 @@ func _physics_process(_delta: float) -> void:
 		"ui_up",
 		"ui_down"
 	)
+	# Keep the scene playable even when runtime-generated InputMap entries have
+	# not been applied yet (for example, on a first editor launch).
+	var wasd := Vector2(
+		float(Input.is_physical_key_pressed(KEY_D)) - float(Input.is_physical_key_pressed(KEY_A)),
+		float(Input.is_physical_key_pressed(KEY_S)) - float(Input.is_physical_key_pressed(KEY_W))
+	)
+	if wasd.length_squared() > 0.0:
+		input_direction = wasd.normalized()
 
 	velocity = input_direction * move_speed
 	move_and_slide()

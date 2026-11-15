@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bawsv4cyd8n5l"
-path="res://.godot/imported/410592__osfx__outside-an-urban-rave (compressed by happyscribe.com).wav-ed6884f5029e820bf73fc193bb15a975.sample"
+path="res://.godot/imported/410592__osfx__outside-an-urban-rave (compressed by happyscribe.com).wav-796b208431c7d0463f8d014c57350bea.sample"
 
 [deps]
 
-source_file="res://audio/410592__osfx__outside-an-urban-rave (compressed by happyscribe.com).wav"
-dest_files=["res://.godot/imported/410592__osfx__outside-an-urban-rave (compressed by happyscribe.com).wav-ed6884f5029e820bf73fc193bb15a975.sample"]
+source_file="res://audio/Ambience_AudioAssets/410592__osfx__outside-an-urban-rave (compressed by happyscribe.com).wav"
+dest_files=["res://.godot/imported/410592__osfx__outside-an-urban-rave (compressed by happyscribe.com).wav-796b208431c7d0463f8d014c57350bea.sample"]
 
 [params]
 

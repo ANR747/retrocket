@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bv27hiifpcmxw"
-path="res://.godot/imported/640164main_Go20for20Deploy.mp3-48a5285dc750281f9600880b25b0c651.mp3str"
+path="res://.godot/imported/640164main_Go20for20Deploy.mp3-4fca152422da34b27e28ad30d3d3cfab.mp3str"
 
 [deps]
 
-source_file="res://audio/640164main_Go20for20Deploy.mp3"
-dest_files=["res://.godot/imported/640164main_Go20for20Deploy.mp3-48a5285dc750281f9600880b25b0c651.mp3str"]
+source_file="res://audio/InSpace_AudioAssets/640164main_Go20for20Deploy.mp3"
+dest_files=["res://.godot/imported/640164main_Go20for20Deploy.mp3-4fca152422da34b27e28ad30d3d3cfab.mp3str"]
 
 [params]
 

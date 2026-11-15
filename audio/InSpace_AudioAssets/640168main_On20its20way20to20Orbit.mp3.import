@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bjaiufog67p6c"
-path="res://.godot/imported/640168main_On20its20way20to20Orbit.mp3-e7c84bed552bb6c1c53d826814f2543c.mp3str"
+path="res://.godot/imported/640168main_On20its20way20to20Orbit.mp3-42c416a9eee4753014355324173806b0.mp3str"
 
 [deps]
 
-source_file="res://audio/640168main_On20its20way20to20Orbit.mp3"
-dest_files=["res://.godot/imported/640168main_On20its20way20to20Orbit.mp3-e7c84bed552bb6c1c53d826814f2543c.mp3str"]
+source_file="res://audio/InSpace_AudioAssets/640168main_On20its20way20to20Orbit.mp3"
+dest_files=["res://.godot/imported/640168main_On20its20way20to20Orbit.mp3-42c416a9eee4753014355324173806b0.mp3str"]
 
 [params]
 

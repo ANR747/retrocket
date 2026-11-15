@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1odeoqeemulf"
+path="res://.godot/imported/04. Peaceful Village.mp3-2b9c6e7c87908f50eadd8fbd8a038a9a.mp3str"
+
+[deps]
+
+source_file="res://audio/Musics_AudioAssets/04. Peaceful Village.mp3"
+dest_files=["res://.godot/imported/04. Peaceful Village.mp3-2b9c6e7c87908f50eadd8fbd8a038a9a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

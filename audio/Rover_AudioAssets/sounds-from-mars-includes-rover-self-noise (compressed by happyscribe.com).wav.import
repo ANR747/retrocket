@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cpi5mjf7mow5q"
-path="res://.godot/imported/sounds-from-mars-includes-rover-self-noise (compressed by happyscribe.com).wav-8b4a788aaaf41c78d6b8d8b366c14c83.sample"
+path="res://.godot/imported/sounds-from-mars-includes-rover-self-noise (compressed by happyscribe.com).wav-e14f54b2efab518e60e2587174e6e722.sample"
 
 [deps]
 
-source_file="res://sounds-from-mars-includes-rover-self-noise (compressed by happyscribe.com).wav"
-dest_files=["res://.godot/imported/sounds-from-mars-includes-rover-self-noise (compressed by happyscribe.com).wav-8b4a788aaaf41c78d6b8d8b366c14c83.sample"]
+source_file="res://audio/Rover_AudioAssets/sounds-from-mars-includes-rover-self-noise (compressed by happyscribe.com).wav"
+dest_files=["res://.godot/imported/sounds-from-mars-includes-rover-self-noise (compressed by happyscribe.com).wav-e14f54b2efab518e60e2587174e6e722.sample"]
 
 [params]
 

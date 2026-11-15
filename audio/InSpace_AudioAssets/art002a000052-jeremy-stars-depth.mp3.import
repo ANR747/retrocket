@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bv7nxxerl3eb7"
-path="res://.godot/imported/art002a000052-jeremy-stars-depth.mp3-cde6cb8b572875c31ac6c9c5efbe07de.mp3str"
+path="res://.godot/imported/art002a000052-jeremy-stars-depth.mp3-e80a9d4b4227f5715c116155af1590bb.mp3str"
 
 [deps]
 
-source_file="res://audio/art002a000052-jeremy-stars-depth.mp3"
-dest_files=["res://.godot/imported/art002a000052-jeremy-stars-depth.mp3-cde6cb8b572875c31ac6c9c5efbe07de.mp3str"]
+source_file="res://audio/InSpace_AudioAssets/art002a000052-jeremy-stars-depth.mp3"
+dest_files=["res://.godot/imported/art002a000052-jeremy-stars-depth.mp3-e80a9d4b4227f5715c116155af1590bb.mp3str"]
 
 [params]
 

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://sunxt4m8f6g4"
+path="res://.godot/imported/18. The Old Magician.mp3-494b0964fab9dc9bce251e1421584a24.mp3str"
+
+[deps]
+
+source_file="res://audio/Musics_AudioAssets/18. The Old Magician.mp3"
+dest_files=["res://.godot/imported/18. The Old Magician.mp3-494b0964fab9dc9bce251e1421584a24.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

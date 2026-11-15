@@ -1,7 +1,10 @@
 [gd_scene format=3 uid="uid://llypin4fj1ab"]
 
-[ext_resource type="Script" path="res://scripts/player.tscn.gd" id="1_g2els"]
-[ext_resource type="Texture2D" path="res://Image_Assets/Pixel Astronaut Sprite Sheet.png" id="2_qhqgy"]
+[ext_resource type="Script" uid="uid://25r7stja4x2n" path="res://scripts/player.tscn.gd" id="1_g2els"]
+[ext_resource type="Texture2D" uid="uid://b3irni84nj0b4" path="res://Image_Assets/Pixel Astronaut Sprite Sheet.png" id="2_qhqgy"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_k4yq4"]
+radius = 61.03278
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_pqap4"]
 atlas = ExtResource("2_qhqgy")
@@ -146,10 +149,6 @@ region = Rect2(680, 1024, 170, 256)
 [sub_resource type="AtlasTexture" id="AtlasTexture_tepey"]
 atlas = ExtResource("2_qhqgy")
 region = Rect2(850, 1024, 170, 256)
-
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_player"]
-radius = 12.0
-height = 34.0
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_efak6"]
 animations = [{
@@ -297,7 +296,8 @@ position = Vector2(1, 0)
 script = ExtResource("1_g2els")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=933352367]
-shape = SubResource("CapsuleShape2D_player")
+position = Vector2(11, 71)
+shape = SubResource("CircleShape2D_k4yq4")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1511530444]
 sprite_frames = SubResource("SpriteFrames_efak6")
